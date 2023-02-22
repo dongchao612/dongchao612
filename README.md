@@ -1,16 +1,17 @@
-### Hi there 👋
 
-<!--
-**dongchao612/dongchao612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=dongchao612&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-Here are some ideas to get you started:
+### dongchao's Github ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+- 👋 Hi, I’m  dongchao
+- :orange_book: Focusing on c++ & linux & QT
+- 🌱 I’m currently learning QT
+- 📫 How to reach me 3224318157@qq.com
+
+<!---
+dongchao0612/dongchao0612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
