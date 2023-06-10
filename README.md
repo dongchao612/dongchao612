@@ -7,7 +7,7 @@
 - 👋 Hi, I’m  dongchao
 - :orange_book: Focusing on c++ & linux & QT
 - 🌱 I’m currently learning QT
-- 📫 How to reach me 3224318157@qq.com
+- 📫 How to reach me dongchao980612@163.com
 
 <!---
 dongchao0612/dongchao0612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
