@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## C++学习合集
-
+[《数据结构》作者：李春葆](https://github.com/dongchao612/DataStructureCode)
 [《C++语言程序设计》作者：郑莉 董渊 何江舟](https://github.com/dongchao612/CppTutorial)
 
 ## 嵌入式合集
@@ -24,7 +24,7 @@ You can click the Preview link to take a look at your changes.
 
 [江科大51单片机合集](https://github.com/dongchao612/JKD51Project)
 
-[《TCP&IP网络编程》图书信息： 作者：尹圣雨](https://github.com/dongchao612/TCPIPCode)
+[《TCP&IP网络编程》作者：尹圣雨](https://github.com/dongchao612/TCPIPCode)
 
 ## QT学习合集
 
