@@ -60,6 +60,8 @@ You can click the Preview link to take a look at your changes.
 
 [日常代码](https://github.com/dongchao612/CodingLife)
 
+[MyTinyHttpd自用版](https://github.com/dongchao612/MyTinyHttpd)
+
 [AI 方向好用的科研工具](https://github.com/bighuang624/AI-research-tools)
 
 [阿秀的学习笔记](https://interviewguide.cn/)
