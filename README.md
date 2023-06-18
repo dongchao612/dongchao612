@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
 [《C++语言程序设计》作者：郑莉 董渊 何江舟](https://github.com/dongchao612/CppTutorial)
 
 ## 嵌入式合集
+[华清笔记](https://github.com/dongchao612/huaqingLearn)
 
 [李慧琴嵌入式教程](https://github.com/dongchao612/lihuiqinc)
 
