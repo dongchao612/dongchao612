@@ -10,13 +10,17 @@
 - 📫 How to reach me dongchao980612@163.com
 
 <!---
-dongchao0612/dongchao0612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+dongchao612/dongchao612 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dongchao612&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ricardobarroslourenco&width=820"
 />
+
+<!---
+ricardobarroslourenco/ricardobarroslourenco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
 
 
 ## C++学习合集
