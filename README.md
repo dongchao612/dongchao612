@@ -14,6 +14,11 @@ dongchao0612/dongchao0612 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dongchao612&width=820"
+/>
+
+
 ## C++学习合集
 [《数据结构》作者：李春葆](https://github.com/dongchao612/DataStructureCode)
 
