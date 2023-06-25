@@ -14,7 +14,7 @@ dongchao612/dongchao612 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=ricardobarroslourenco&width=820"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=dongchao612&width=820"
 />
 
 <!---
