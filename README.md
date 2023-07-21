@@ -1,6 +1,6 @@
-<a href="https://github.com/dongchao612">
-  
-<img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongchao612&hide=html&hide_title=true&layout=compact&langs_count=7&exclude_repo=comp426&bg_color=141321,Redventures-Movie-Quotes&theme=radical"/>
+
+| <a href="https://github.com/dongchao612"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dongchao612&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongchao612&layout=compact&theme=buefy&hide_border=true" /></a> 
 
 </a>
 
