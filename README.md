@@ -1,5 +1,8 @@
 <a href="https://github.com/dongchao612">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongchao612" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongchao612&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
+
+<img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dongchao612&hide=html&hide_title=true&layout=compact&langs_count=7&exclude_repo=comp426&bg_color=ffffff,Redventures-Movie-Quotes&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongchao612&count_private=true&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&theme=radical"/>
 </a>
 
