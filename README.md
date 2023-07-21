@@ -1,5 +1,5 @@
 <a href="https://github.com/dongchao612">
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongchao612&repo=github-readme-stats&theme=buefy" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=dongchao612" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=dongchao612&count_private=true&show_icons=true&hide=issues&hide_title=true&include_all_commits=true&theme=radical"/>
 </a>
 
